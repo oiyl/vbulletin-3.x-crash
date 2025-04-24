@@ -2,7 +2,7 @@
 # vbulletin-3.x-crash
 
 # ⚠️ Disclaimer
-This writeup is meant to be purely education and shed on light on the effects of old, unupdated software, and mitigations to take
+This writeup is meant to be purely educational and shed light on the effects of old, unupdated software, and mitigations to take
 
 
 ## Overview
