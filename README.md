@@ -9,7 +9,7 @@ This writeup is meant to be purely educational and shed light on the effects of 
 
 In trying to automate friend requests on unknowncheats.me, I accidentally triggered a serverside overload that took the site offline when I clicked on my friends list through a tab at the top, as opposed to through the control panel. This writeup is meant to explore how relatively large-scale queries and lack of pagination can cause performance bottlenecks
 
-It took 130,000 requests to do so, but that doesn't matter when 130k requests can be sent in about an hour or two.
+It took 130,000 friend requests to do so, but that doesn't matter when 130k requests can be sent in about an hour or two.
 
 ![Screenhot](https://i.imgur.com/wIgjgjR.png)
 
